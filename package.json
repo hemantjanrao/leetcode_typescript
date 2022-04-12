@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "ts-node ./solutions/longest.substring.ts"
+    "test": "ts-node ts_practice/data-types.ts"
   },
   "keywords": [],
   "author": "",
